@@ -1,0 +1,5 @@
+regex
+urllib3
+requests
+datetime
+python-dotenv
